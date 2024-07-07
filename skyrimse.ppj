@@ -1,0 +1,17 @@
+<?xml version='1.0'?><!-- Game is either sse, tesv, or fo4 -->
+<PapyrusProject xmlns="PapyrusProject.xsd" 
+    Flags="TESV_Papyrus_Flags.flg" 
+    Game="sse" 
+    Output="Scripts" 
+    Optimize="false" 
+    Release="false" 
+    Final="false">
+    <Imports>
+        <Import>.\Source\Scripts</Import>
+        <Import>D:\Program Files\Steam\steamapps\common\Skyrim AE\Data\Source\Scripts</Import>
+        <Import>D:\Program Files\Skyrim Mods\MO_AE\mods\Object Manipulation Overhaul\Source\Scripts</Import>
+    </Imports>
+    <Folders>
+        <Folder>.\Source\Scripts</Folder>
+    </Folders>
+</PapyrusProject>
