@@ -4,15 +4,6 @@
       "Priority": 200,
       "ApplyTo": {
         "Type":"FormId",
-        "ModName": "ObjectManipulationOverhaulExample.esp",
-        "Values": ["1d8f"]
-      }
-    },
-    {
-      "Action": "Add",
-      "Priority": 200,
-      "ApplyTo": {
-        "Type":"FormId",
         "Values": ["C56C4"]
       }
     }
